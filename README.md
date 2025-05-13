@@ -24,21 +24,12 @@
 <h2 align="left">I code with</h2>
 
 
+<img src="https://skillicons.dev/icons?i=html,css,js">
+               
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ConstancyDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ConstancyDev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="145" alt="languages graph"  />
+</div>
 
-###
-
-
-###
-
-
-
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css"
-    />
-  </a>
-</p>
-<!---
-ConstancyDev/ConstancyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  </body>
+</html>
