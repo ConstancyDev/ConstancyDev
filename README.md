@@ -25,6 +25,10 @@
 <a href="https://discordapp.com/users/constanncy" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/31lxmeoyhopccyizzi7pzty6lnei" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+ <a href="https://open.spotify.com/playlist/1DUfMXt77ujDvlyRyDW5jK?si=ZDdjAh5DR4a-17menmo1fw" target="_blank">
+  <img src="https://img.shields.io/badge/Ouça%20no%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
+</a>
+
 </a>
 
 
