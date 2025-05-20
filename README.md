@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/rodrigo-soares-50b32731b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dev.soaresrodrigo@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://discordapp.com/users/constanncy" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/seu_usuario" target="_blank">
+<a href="https://open.spotify.com/user/31lxmeoyhopccyizzi7pzty6lnei" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
 </a>
 
