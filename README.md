@@ -31,7 +31,7 @@ Bem Vindos, Meu nome é Rodrigo Soares sou apaixonado por minimalismo e por cód
 
 <p></p> 
 
-![HTML](https://skillicons.dev/icons?i=html,css,js,github,mysql)
+![HTML](https://skillicons.dev/icons?i=html,css,js,github,mysql,react)
 
 ## 📊 Estatísticas
 
